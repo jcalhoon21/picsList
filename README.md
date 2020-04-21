@@ -13,9 +13,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 #### Key Elements
 
-submitting form requests with axios
-binding `this` with arrow function
-.map() function
-React.createRef() function
+submitting form requests with axios<br>
+binding `this` with arrow function<br>
+.map() function<br>
+React.createRef() function<br>
 
-![](images/imageListScreenshot.png)
+![](public/imageListScreenshot.png)
